@@ -4,6 +4,7 @@
   "nsis": {
     "include": "static/installer.nsh"
   },
+  "electronVersion": "13.1.4",
   "generateUpdatesFilesForAllChannels": true,
   "asar": true,
   "directories": {
